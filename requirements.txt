@@ -1,0 +1,8 @@
+requests
+flask
+wtforms
+gunicorn
+youtube-dl
+caesarcipher
+Flask-WTF
+
